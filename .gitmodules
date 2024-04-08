@@ -1,0 +1,9 @@
+[submodule "LLM-Law-Stanford-python"]
+	path = LLM-Law-Stanford-python
+	url = https://github.com/shoot649854/LLM-Law-Stanford-python.git
+[submodule "llm-law-stanford-frontend"]
+	path = llm-law-stanford-frontend
+	url = https://github.com/shoot649854/llm-law-stanford-frontend.git
+[submodule "AskAva"]
+	path = AskAva
+	url = https://github.com/supriyamk2/AskAva.git
