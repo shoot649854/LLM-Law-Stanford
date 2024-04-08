@@ -3,6 +3,8 @@
 ## Overview
 LLM Law Stanford is an AI Assistant designed to provide instant and personalized responses to inquiries regarding the immigration process, with a specific focus on OPT (Optional Practical Training), STEM OPT (Science, Technology, Engineering, and Mathematics Optional Practical Training), and H1B visa procedures. The assistant maintains conversation memories for a seamless user experience.
 
+![IMG_467F2F5C39DA-1](https://github.com/shoot649854/llm-law-stanford/assets/103382369/8fe33dcb-fd2d-4d76-b6b3-61a473fd0104)
+
 ## [Figma Design](https://www.figma.com/file/BxtkDwlJShVgW8m7uV2yCG/AI-Chatbot-(Community)?type=design&node-id=1-6&mode=design&t=MdbJYHO3qnNibBYC-0)
 Explore our Figma design to get an insight into the user interface and design elements: [Figma Link](https://www.figma.com/file/BxtkDwlJShVgW8m7uV2yCG/AI-Chatbot-(Community)?type=design&node-id=1-6&mode=design&t=MdbJYHO3qnNibBYC-0)
 
